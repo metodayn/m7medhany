@@ -58,7 +58,7 @@ if (message.content === '!XQ2') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**XQ2 IS BY BROTHER XQ2 IS BY BROTHER XQ2 IS BY BROTHER XQ2 IS BY BROTHER XQ2 IS BY BROTHER XQ2 IS BY BROTHER XQ2 IS BY BROTHER **[ " ${x} " ]`)
+        message.channel.send(`**XQ2 IS MY BROTHERXQ2 IS MY BROTHERXQ2 IS MY BROTHERXQ2 IS MY BROTHERXQ2 IS MY BROTHERXQ2 IS MY BROTHERXQ2 IS MY BROTHERXQ2 IS MY BROTHERXQ2 IS MY BROTHER **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -72,7 +72,7 @@ if (message.content === '!XQ2') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**XQ2 IS BY BROTHER XQ2 IS BY BROTHER XQ2 IS BY BROTHER XQ2 IS BY BROTHER XQ2 IS BY BROTHER XQ2 IS BY BROTHER XQ2 IS BY BROTHER**[ " ${x} " ]`)
+        message.channel.send(`**XQ2 IS MY BROTHERXQ2 IS MY BROTHERXQ2 IS MY BROTHERXQ2 IS MY BROTHERXQ2 IS MY BROTHERXQ2 IS MY BROTHERXQ2 IS MY BROTHERXQ2 IS MY BROTHERXQ2 IS MY BROTHER**[ " ${x} " ]`)
           .then(m => {
             count++;
           })
